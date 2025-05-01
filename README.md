@@ -1,4 +1,3 @@
-Due to the nature of the software being used, this must be ran on a Windows OS. However, the code can be adapted into another SQL database if needed.
 
 Developed with python 3.9.13. This can be downloaded at this website:
 https://www.python.org/downloads/release/python-3913/
